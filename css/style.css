@@ -1493,6 +1493,7 @@ position: relative;
         align-items: center;
         transition: 0.3s;
         box-shadow: 0 0 3px eee;
+        z-index:100000;
     }
      .btn-whatsapp:hover{
         scale: 1.1;
