@@ -94,13 +94,6 @@ header .container img {
     height: 60px;
    
 }
-/* @media (max-width: 768px) {
-    .logo img{
-      width: 20px !important;
-    height: 20px !important;
-        background-color:red;
-    }
-} */
 
 header .container nav {
     flex: 1;
