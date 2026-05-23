@@ -570,7 +570,6 @@ text-align: center;
     background-position: center;
     background-attachment: fixed;
     position: relative;
-      z-index: 10000;
     /* border-radius: 60px; */
     /* background-color: rgb(213, 216, 240); */
 }
